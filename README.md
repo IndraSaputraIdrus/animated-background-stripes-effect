@@ -1,0 +1,1 @@
+# animated-background-stripes-effect
